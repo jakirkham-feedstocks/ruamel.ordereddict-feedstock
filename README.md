@@ -5,7 +5,7 @@ Home: https://bitbucket.org/ruamel/ordereddict
 
 Package license: MIT
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: a version of dict that keeps keys in insertion resp. sorted order
 
@@ -69,9 +69,15 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ruamel.ordereddict-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/ruamel.ordereddict-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/ruamel.ordereddict-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ruamel.ordereddict-feedstock) 
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ruamel.ordereddict-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ruamel.ordereddict-feedstock/branch/master)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ruamel-ordereddict-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ruamel-ordereddict-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ruamel.ordereddict/badges/version.svg)](https://anaconda.org/conda-forge/ruamel.ordereddict)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ruamel.ordereddict/badges/downloads.svg)](https://anaconda.org/conda-forge/ruamel.ordereddict)
 
 
 Updating ruamel.ordereddict-feedstock
