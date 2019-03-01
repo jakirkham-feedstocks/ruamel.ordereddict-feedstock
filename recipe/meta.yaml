@@ -17,8 +17,10 @@ requirements:
   host:
     - python
     - pip
+    - ruamel
   run:
     - python
+    - ruamel
 
 test:
   imports:
