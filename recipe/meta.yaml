@@ -29,6 +29,7 @@ test:
 about:
   home: https://bitbucket.org/ruamel/ordereddict
   license: MIT
+  license_file: LICENSE
   summary: "a version of dict that keeps keys in insertion resp. sorted order"
 
 extra:
